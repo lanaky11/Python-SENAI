@@ -1,0 +1,5 @@
+numeroa = input("digite um número.")
+numerob = input("digite um número.")
+numeroc = input("digite um número.")
+numerod = input("digite um número.")
+print("Resultado_soma= primeiro_número + segundo_número + terceiro_número + quarto_número.")
